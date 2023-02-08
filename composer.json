@@ -12,7 +12,8 @@
   "require": {
     "php": ">=8.0",
     "psr/http-message": "^1.0",
-    "ext-json": "*"
+    "ext-json": "*",
+    "ext-curl": "*"
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest",
