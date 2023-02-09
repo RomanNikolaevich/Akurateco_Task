@@ -1,10 +1,10 @@
 {
-  "name": "domnikl/design-patterns-php",
-  "description": "Sample code for several design patterns in PHP",
-  "license": ["MIT"],
+  "name": "romannikolaevich/akurateco_task",
+  "description": "Implement a library for interacting with an external API according to the provided documentation",
+  "license": ["romannikolaevich"],
   "authors": [
     {
-      "name": "Roman_Nic",
+      "name": "RomanNikolaevich",
       "email": "example@googlemail.com"
     }
   ],
